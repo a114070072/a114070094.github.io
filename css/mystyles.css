@@ -36,23 +36,24 @@
     color: #ffffff;
 }
 a.seanschool{
-    color: #ed963a;
+    color: #395b73;
     padding: 0 10px;
-    border-radius: 40px;
+    border-radius:20px;
+    margin: 10px;
 }
 a.seanschool:hover{
-    background-color: rgb(236, 213, 113);
-    color:rgb(214, 26, 26);
-    
+    background-color: rgba(0, 0, 0, 0.324);
+    color:rgb(42, 85, 165);
 }
 a.seanwork{
-    color: #ed963a;
+    color: #395b73;
     padding: 0 10px;
-    border-radius: 40px;
+    border-radius:20px;
+    margin: 10px;
 }
 a.seanwork:hover{
-    background-color: rgb(236, 213, 113);
-    color:rgb(214, 26, 26);
+   background-color: rgba(0, 0, 0, 0.324);
+    color:rgb(42, 85, 165);
     
 }
 .seanbig{
@@ -77,6 +78,17 @@ section#cta {
     background-color: #395b73;
 }
 .seancolor{
+    color: #395b73;
+    background-color: rgba(47, 47, 66, 0.324);
+}
+.shuschool{
+   
+    color: #395b73;
+    background-color: rgba(47, 47, 66, 0.324);
+    
+}
+.seanwo{
+    text-align: center;
     color: #395b73;
     background-color: rgba(47, 47, 66, 0.324);
 }
