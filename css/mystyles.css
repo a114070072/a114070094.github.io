@@ -1,7 +1,7 @@
 .seancenter{
     text-align: center;
-    color: #890808;
-    background-color: bisque;
+    color: #395b73;
+    background-color: rgba(47, 47, 66, 0.324);
 }
 .seankk{
     background-color: beige;
@@ -77,5 +77,6 @@ section#cta {
     background-color: #395b73;
 }
 .seancolor{
-    color: black;
+    color: #395b73;
+    background-color: rgba(47, 47, 66, 0.324);
 }
