@@ -126,3 +126,12 @@ a.sing:hover{
     background-color: rgba(0, 0, 0, 0.324);
     color:rgb(42, 85, 165);
 }
+.speak{
+    color: #000;
+    height: auto;
+}
+.highschool{
+    color: #395b73;
+    background-color: rgba(47, 47, 66, 0.324);
+    width: 250px;
+}
