@@ -101,6 +101,7 @@ section#cta {
     height: 250px;
     object-fit: cover;
     margin: 6px;
+    border-radius: 10px;
 }
 .connect{
     text-align: center;
